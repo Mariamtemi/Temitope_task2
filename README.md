@@ -1,4 +1,4 @@
-The link below is for my task 3(html+css) blog post
+The first link below is for my task 3(html+css) blog post
 
 https://www.linkedin.com/pulse/my-software-development-journey-has-just-begun-atoyebi/?published=t
 
